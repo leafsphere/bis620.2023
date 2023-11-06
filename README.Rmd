@@ -25,7 +25,8 @@ The goal of bis620.2023 is to ...
 You can install the development version of bis620.2023 like so:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+# install.packages("devtools")
+devtools::install_github("leafsphere/bis620.2023")
 ```
 
 ## Example
