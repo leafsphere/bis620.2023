@@ -1,4 +1,4 @@
-# multiplication works
+# spec_sig() works
 
     Code
       spec_sig(head(accel))
